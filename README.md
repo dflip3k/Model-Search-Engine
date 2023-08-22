@@ -1,5 +1,5 @@
 # Model Search Engine
   
-> 请在左上角进行搜索，不区分大小写  
-> 本站点没有存储任何图片数据，需要在可以访问Civitai的网络环境进行浏览。  
-> 目前收录1800+ Checkpoints  
+> Please search in the upper left corner, case insensitive  
+> This site does not store any image data, it needs to be viewed in a network environment that can access Civitai.  
+> Currently includes 1800+ Checkpoints  
